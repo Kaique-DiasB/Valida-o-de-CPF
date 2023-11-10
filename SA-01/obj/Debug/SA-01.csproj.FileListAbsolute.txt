@@ -1,0 +1,12 @@
+C:\Users\diask\Documents\SharpDevelop Projects\SA-POO\SA-01\obj\Debug\SA-01.csprojResolveAssemblyReference.cache
+C:\Users\diask\Documents\SharpDevelop Projects\SA-POO\SA-01\bin\Debug\SA-01.exe.config
+C:\Users\diask\Documents\SharpDevelop Projects\SA-POO\SA-01\bin\Debug\SA-01.exe
+C:\Users\diask\Documents\SharpDevelop Projects\SA-POO\SA-01\bin\Debug\SA-01.pdb
+C:\Users\diask\Documents\SharpDevelop Projects\SA-POO\SA-01\obj\Debug\SA-01.exe
+C:\Users\diask\Documents\SharpDevelop Projects\SA-POO\SA-01\obj\Debug\SA-01.pdb
+C:\Users\diask\Desktop\SA-POO\SA-01\obj\Debug\SA-01.csprojResolveAssemblyReference.cache
+C:\Users\diask\Desktop\SA-POO\SA-01\obj\Debug\SA-01.exe
+C:\Users\diask\Desktop\SA-POO\SA-01\bin\Debug\SA-01.exe.config
+C:\Users\diask\Desktop\SA-POO\SA-01\bin\Debug\SA-01.exe
+C:\Users\diask\Desktop\SA-POO\SA-01\bin\Debug\SA-01.pdb
+C:\Users\diask\Desktop\SA-POO\SA-01\obj\Debug\SA-01.pdb
